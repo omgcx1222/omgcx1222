@@ -2,7 +2,6 @@
 
 
 - I’m a coder
-- I’m currently learning goland
 - How to reach me: `2389342251@qq.com`
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

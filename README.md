@@ -4,15 +4,15 @@
 - I’m a coder
 - How to reach me: `2389342251@qq.com`
 
-<a>
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omgcx1222&count_private=true&show_icons=true" />
-</a>
+</span>
 
 <span></span>
 
-<a>
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgcx1222&layout=compact" />
-</a>
+</span>
 
 <span></span>
 

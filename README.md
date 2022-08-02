@@ -4,13 +4,13 @@
 - I’m a coder
 - How to reach me: `2389342251@qq.com`
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omgcx1222&count_private=true&show_icons=true" />
 </a>
 
 <span></span>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgcx1222&layout=compact" />
 </a>
 
